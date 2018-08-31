@@ -1,7 +1,7 @@
 ## Files ignored for this program ##
 *.csv 
 # CSV contains private financial data.
-
+*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
